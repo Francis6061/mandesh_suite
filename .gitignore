@@ -19,3 +19,4 @@ credentials.txt
 *.tar.gz
 credentials.txt
 *.tar.gz
+hunt_results.txt
