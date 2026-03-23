@@ -15,3 +15,5 @@ __pycache__/
 haking_env/
 *.log
 __pycache__/
+credentials.txt
+*.tar.gz
