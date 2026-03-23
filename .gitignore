@@ -17,3 +17,5 @@ haking_env/
 __pycache__/
 credentials.txt
 *.tar.gz
+credentials.txt
+*.tar.gz
