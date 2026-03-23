@@ -1,0 +1,17 @@
+# Ignore the virtual environment
+haking_env/
+__pycache__/
+
+# Ignore private logs and results
+results/
+*.log
+IDENTITY-LOG.txt
+
+# Ignore system files
+.DS_Store
+haking_env/
+*.log
+__pycache__/
+haking_env/
+*.log
+__pycache__/

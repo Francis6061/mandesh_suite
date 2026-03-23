@@ -1,0 +1,5 @@
+--- LIVE TRACK HIT ---
+IP: 127.0.0.1
+GPS: -0.3729152,35.9330254
+Device: Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+Maps: http://www.google.com/maps/place/-0.3729152,35.9330254
