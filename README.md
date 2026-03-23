@@ -1,10 +1,8 @@
-
 ## ⚖️ Legal & Ethical Disclaimer
-This tool is developed for **educational and authorized security testing** only. 
-The author (Mandesh:hackedmails01@gmail.com) is not responsible for any misuse or damage caused by this program. 
+This tool is developed by **Francis Macharia Nderu (Francis6061)** for **educational and authorized security testing** only. 
+The author is not responsible for any misuse or damage caused by this program. 
 - **Consent:** Never track a device or scan a user without explicit permission.
-- **Compliance:** Ensure all activities align with Kenya's Data Protection Act (2019) 
-  and the Computer Misuse and Cybercrimes Act.
+- **Compliance:** Ensure all activities align with the Data Protection Act (2019) and the Computer Misuse and Cybercrimes Act.
 - **Privacy:** Do not store or distribute personal data harvested during testing.
 
 # Mandesh Identity Hunter Suite
