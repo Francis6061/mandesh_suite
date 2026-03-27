@@ -16,7 +16,7 @@ Advanced OSINT and Penetration Testing Suite for educational purposes.
 ## Installation
 1. Active your environment: `source haking_env/bin/activate`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the suite: `python3 main.py`
+3. Run the suite: `python3 main.py ,user admin passwd mandesh`
 
 ## Requirements
 - Python 3.11+
